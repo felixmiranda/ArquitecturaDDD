@@ -50,7 +50,25 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contexto\ProyectoModeloContext.cs" />
+    <Compile Include="EntityConfig\ClienteConfiguration.cs" />
+    <Compile Include="EntityConfig\ProductoConfiguration.cs" />
+    <Compile Include="Migrations\201703172026552_AddCliente.cs" />
+    <Compile Include="Migrations\201703172026552_AddCliente.Designer.cs">
+      <DependentUpon>201703172026552_AddCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703172121030_AddClienteEstructura.cs" />
+    <Compile Include="Migrations\201703172121030_AddClienteEstructura.Designer.cs">
+      <DependentUpon>201703172121030_AddClienteEstructura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703172149467_AddProducto.cs" />
+    <Compile Include="Migrations\201703172149467_AddProducto.Designer.cs">
+      <DependentUpon>201703172149467_AddProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\ClienteRepository.cs" />
+    <Compile Include="Repositories\ProductoRepository.cs" />
+    <Compile Include="Repositories\RepositoryBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ProyectoModeloDDD.Domain\ProyectoModeloDDD.Domain.csproj">
@@ -58,13 +76,21 @@
       <Name>ProyectoModeloDDD.Domain</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="EntityConfig\" />
-    <Folder Include="Repositories\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201703172026552_AddCliente.resx">
+      <DependentUpon>201703172026552_AddCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703172121030_AddClienteEstructura.resx">
+      <DependentUpon>201703172121030_AddClienteEstructura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703172149467_AddProducto.resx">
+      <DependentUpon>201703172149467_AddProducto.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -3,3 +3,8 @@ E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Domain\bin\
 E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Domain\obj\Debug\ProyectoModeloDDD.Domain.csprojResolveAssemblyReference.cache
 E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Domain\obj\Debug\ProyectoModeloDDD.Domain.dll
 E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Domain\obj\Debug\ProyectoModeloDDD.Domain.pdb
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Domain\bin\Debug\ProyectoModeloDDD.Domain.dll
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Domain\bin\Debug\ProyectoModeloDDD.Domain.pdb
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Domain\obj\Debug\ProyectoModeloDDD.Domain.csprojResolveAssemblyReference.cache
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Domain\obj\Debug\ProyectoModeloDDD.Domain.dll
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Domain\obj\Debug\ProyectoModeloDDD.Domain.pdb

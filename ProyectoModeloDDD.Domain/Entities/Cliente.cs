@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Runtime.CompilerServices;
 
 namespace ProyectoModeloDDD.Domain.Entities
 {
+    [Table("Cliente")]   
     public class Cliente
     {
         public int ClienteId { get; set; }
@@ -15,6 +15,7 @@ namespace ProyectoModeloDDD.Domain.Entities
         public DateTime FechaRegistro { get; set; }
         public bool Activo { get; set; }
 
+        public virtual IEnumerable<Producto> Productos { get; set; }
 
         public bool ClienteEspecial(Cliente cliente)
         {

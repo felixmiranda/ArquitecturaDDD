@@ -5,3 +5,19 @@ E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Infra.Data\
 E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Infra.Data\obj\Debug\ProyectoModeloDDD.Infra.Data.csprojResolveAssemblyReference.cache
 E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Infra.Data\obj\Debug\ProyectoModeloDDD.Infra.Data.dll
 E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Infra.Data\obj\Debug\ProyectoModeloDDD.Infra.Data.pdb
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\bin\Debug\ProyectoModeloDDD.Infra.Data.dll.config
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\bin\Debug\ProyectoModeloDDD.Infra.Data.dll
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\bin\Debug\ProyectoModeloDDD.Infra.Data.pdb
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\bin\Debug\ProyectoModeloDDD.Domain.dll
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\bin\Debug\ProyectoModeloDDD.Domain.pdb
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\obj\Debug\ProyectoModeloDDD.Infra.Data.csprojResolveAssemblyReference.cache
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\obj\Debug\ProyectoModeloDDD.Infra.Data.dll
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\obj\Debug\ProyectoModeloDDD.Infra.Data.pdb
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\obj\Debug\ProyectoModeloDDD.Infra.Data.Migrations.AddCliente.resources
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\obj\Debug\ProyectoModeloDDD.Infra.Data.csproj.GenerateResource.Cache
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\obj\Debug\ProyectoModeloDDD.Infra.Data.Migrations.AddClienteEstructura.resources
+E:\GITHUB\ArquitecturaDDD\ProyectoModeloDDD.Infra.Data\obj\Debug\ProyectoModeloDDD.Infra.Data.Migrations.AddProducto.resources
