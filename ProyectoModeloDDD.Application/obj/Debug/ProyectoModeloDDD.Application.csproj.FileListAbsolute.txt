@@ -1,0 +1,5 @@
+E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Application\bin\Debug\ProyectoModeloDDD.Application.dll
+E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Application\bin\Debug\ProyectoModeloDDD.Application.pdb
+E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Application\obj\Debug\ProyectoModeloDDD.Application.csprojResolveAssemblyReference.cache
+E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Application\obj\Debug\ProyectoModeloDDD.Application.dll
+E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Application\obj\Debug\ProyectoModeloDDD.Application.pdb

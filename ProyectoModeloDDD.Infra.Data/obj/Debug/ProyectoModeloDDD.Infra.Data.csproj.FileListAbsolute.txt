@@ -1,0 +1,7 @@
+E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Infra.Data\bin\Debug\ProyectoModeloDDD.Infra.Data.dll
+E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Infra.Data\bin\Debug\ProyectoModeloDDD.Infra.Data.pdb
+E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Infra.Data\bin\Debug\ProyectoModeloDDD.Domain.dll
+E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Infra.Data\bin\Debug\ProyectoModeloDDD.Domain.pdb
+E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Infra.Data\obj\Debug\ProyectoModeloDDD.Infra.Data.csprojResolveAssemblyReference.cache
+E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Infra.Data\obj\Debug\ProyectoModeloDDD.Infra.Data.dll
+E:\NET Proyectos\ArquitecturaDDD\ProyectoModeloDDD\ProyectoModeloDDD.Infra.Data\obj\Debug\ProyectoModeloDDD.Infra.Data.pdb
